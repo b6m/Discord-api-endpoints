@@ -1,2 +1,2 @@
-# Disocrd-api-endpoints
+# Discord-api-endpoints
 all if not most of discord api endpoints
