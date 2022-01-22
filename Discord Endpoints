@@ -259,6 +259,8 @@ GET
 /users/@me/notes/:note-user-id
 /users/@me/relationships
 /users/@me/settings
+/users/@me/phone
+/phone-verifications/verify
 
  
 /voice/regions
